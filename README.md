@@ -5,7 +5,9 @@ This project provides to search singers or songs and listen to users. Thanks to 
 # Features
 
 The site is compatible with laptops, ipads and mobiles due to response.
+
 This project has shazam and spotify APIs so tracks are awaiable.
+
 When you enter the site, there will be 20 random song and if you refresh the page, the songs will refresh too.
 
 #GIF
